@@ -39,5 +39,5 @@ The accompanying PDF report documents the **theory, methodology, results, and co
 ![Pe=10 Temperature Field](figures/Pe10.png)
 
 ### Temperature profiles generated for the case of Pe = 100
-![Pe=100 Temperature Profiles](figures/Pe100.png)
+![Pe=100 Temperature Profiles](figures/Pe100_2.png)
 
