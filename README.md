@@ -16,7 +16,7 @@ The accompanying PDF report documents the **theory, methodology, results, and co
 
 ## Features
 
-- 🏷 **Laminar Poiseuille flow** assumption with fully developed velocity profile  
+- **Laminar Poiseuille flow** assumption with fully developed velocity profile  
 - Handles **convection–diffusion equation** with optional **viscous dissipation**  
 - Choice between **Direct Solver** (fast for small meshes) and **GMRES Iterative Solver** (scalable for larger grids)  
 - **Mesh refinement study** (20×10 up to 160×80) to confirm mesh independence  
@@ -33,4 +33,5 @@ The accompanying PDF report documents the **theory, methodology, results, and co
 ## Example Results
 
 ### Example of the temperature field generated for the case of Br = 0 (No viscous dissipation)
+![Br=0 Temperature Field](figures/Br0.png)
 
