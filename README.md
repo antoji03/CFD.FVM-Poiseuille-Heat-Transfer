@@ -41,3 +41,9 @@ The accompanying PDF report documents the **theory, methodology, results, and co
 ### Temperature profiles generated for the case of Pe = 100
 ![Pe=100 Temperature Profiles](figures/Pe100_2.png)
 
+## Author
+
+António Reis  
+MSc Aerospace Engineering — Aerodynamics | CFD | Numerical Methods  
+🔗 [LinkedIn](https://www.linkedin.com/in/antónio-reis-615471327)
+
