@@ -35,9 +35,9 @@ The accompanying PDF report documents the **theory, methodology, results, and co
 ### Temperature field generated for the case of Br = 0 (No viscous dissipation)
 ![Br=0 Temperature Field](figures/Br0.png)
 
-### Temperature field generated for the case of Pr = 10
-![Pr=10 Temperature Field](figures/Pr10.png)
+### Temperature field generated for the case of Pe = 10
+![Pe=10 Temperature Field](figures/Pe10.png)
 
-### Temperature profiles generated for the case of Pr = 100
-![Pr=100 Temperature Profiles](figures/Pr100.png)
+### Temperature profiles generated for the case of Pe = 100
+![Pe=100 Temperature Profiles](figures/Pe100.png)
 
